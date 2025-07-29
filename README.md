@@ -38,8 +38,7 @@ For this script to function correctly, your server environment must meet the fol
 6.  Click the **"Start Restore"** button and confirm the action.
 
 ---
-`![Backup Interface](Screenshot_1.png)`
-`![Backup Interface](Screenshot_2.png)`
+![Backup](https://raw.githubusercontent.com/RizwanKMW/migrate_files_db/refs/heads/main/Screenshot_1.png)
 ## ⚠️ Important Security Warning
 
 This script is extremely powerful. It can read database credentials and overwrite your entire website. You **MUST** follow these security practices:
